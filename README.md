@@ -1,0 +1,1 @@
+Este es un simulador de Ecommerse, en el cual podés registrarte/iniciar sesión, para luego iniciar una compra online a través de un "carrito", en el cual se añaden los productos deseados, y al final, suma el valor total de la compra.
